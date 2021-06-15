@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+}
+
+span {
+    flex-grow: 1;
+}
+
+.win{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+}
+.winner {
+    background-color: #b6c9f0;
+}
+
+.loser {
+    background-color: #f55c47;
+}
